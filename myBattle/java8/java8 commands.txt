@@ -1,0 +1,3 @@
+If you are using proxy for network connection, then you will have to add proxy to git config file. Use the below command to add proxy.
+
+git config --global http.proxy http[s]://username:password@proxyipaddress:portnumber
